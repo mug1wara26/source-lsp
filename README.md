@@ -1,6 +1,6 @@
 # source-lsp
 
-NOTE: This project is archived as it has been moved to github.com/source-academy/source-lsp
+NOTE: This project is archived as it has been moved to https://github.com/source-academy/source-lsp
 
 A LSP server for [source](https://github.com/source-academy/js-slang)
 
